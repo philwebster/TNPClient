@@ -1,0 +1,3 @@
+[submodule "TDOAuth"]
+	path = TDOAuth
+	url = https://github.com/philwebster/TDOAuth.git
